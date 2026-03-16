@@ -15,11 +15,10 @@ const Header = () => {
 			<NavLink to="/certifications" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent dark:text-gray-900">Certifications</NavLink>
 			<NavLink to="/gallery" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent dark:text-gray-900">Gallery</NavLink>
 			<NavLink to="/buyers" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent dark:text-gray-900">Buyers</NavLink>
-			<NavLink to="/contact" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent dark:text-gray-900">Contact</NavLink>	
 		</ul>
 		<div className="flex items-center md:space-x-4">
 			
-			<button type="button" className="hidden px-6 py-2 font-semibold rounded lg:block dark:bg-black dark:text-gray-50">Contact</button>
+			<NavLink to="/contact" className="hidden px-6 py-2 font-semibold rounded lg:block dark:bg-black dark:text-gray-50">Contact</NavLink>
 		</div>
 		<button title="Open menu" type="button" className="p-4 lg:hidden">
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-6 h-6 dark:text-gray-800">

@@ -36,7 +36,7 @@ const Products = () => {
       name: "Silk Saree",
       category: "saree",
       image:
-        "https://images.unsplash.com/photo-1608254977395-d3f7279efa6f?w=500",
+        "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=600",
     },
     {
       id: 4,
