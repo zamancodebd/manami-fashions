@@ -11,3 +11,21 @@
 .animate-slide {
   animation: slide 20s linear infinite;
 }
+
+/* The jiggle animation */
+@keyframes jiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+
+/* Apply animation by default */
+.jiggle-continuous {
+  animation: jiggle 0.6s ease-in-out infinite;
+  display: inline-block;
+}
+
+/* Stop the animation on hover */
+.jiggle-continuous:hover {
+  animation-play-state: paused;
+  transform: rotate(0deg); /* Reset to straight position */
+}

@@ -50,7 +50,7 @@ const Operations = () => {
       icon: Monitor,
       description: "Digital pattern design using advanced CAD software for precision grading & marker planning.",
       details: ["Gerber AccuMark software", "Multi-size pattern grading", "Digital marker optimization", "Zero wastage planning"],
-      image: "https://images.unsplash.com/photo-1558618047-3c8c76bbb17f?w=600",
+      image: "https://res.cloudinary.com/dcdmktxtz/image/upload/v1773714513/IMG_20230119_111053_frhfnc.jpg",
     },
     {
       id: 2,
@@ -59,7 +59,7 @@ const Operations = () => {
       icon: Scissors,
       description: "Computerized straight knife cutting for perfect edges & fabric utilization.",
       details: ["Straight knife machines", "Auto fabric spreaders", "Laser edge sealing", "Numbering & bundling"],
-      image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600",
+      image: "https://res.cloudinary.com/dcdmktxtz/image/upload/v1773714631/IMG_20230119_110948_zhrcvr.jpg",
     },
     {
       id: 3,

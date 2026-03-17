@@ -8,7 +8,8 @@ const BrandSlider = () => {
     "https://staging-hrxbackenddata.sgp1.digitaloceanspaces.com/1730193772043-12.png",
     "https://staging-hrxbackenddata.sgp1.digitaloceanspaces.com/1730193515467-4.png",
     "https://staging-hrxbackenddata.sgp1.digitaloceanspaces.com/1730193742135-7.png",
-    "https://1000logos.net/wp-content/uploads/2021/04/Puma-logo.png"
+    "https://1000logos.net/wp-content/uploads/2021/04/Puma-logo.png",
+    "https://brandslogos.com/wp-content/uploads/images/large/warehouse-logo.png"
   ];
 
   return (
